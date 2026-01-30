@@ -382,17 +382,5 @@ npm test
 - [ ] Performance optimization
 - [ ] Deployment
 
-## License
 
-MIT
-
-## Support
-
-For issues, questions, or feature requests, please contact the development team.
-
-## Team
-
-- Frontend Developer: [Your Name]
-- Backend Developer: [Your Name]
-- UI/UX Designer: [Your Name]
 
